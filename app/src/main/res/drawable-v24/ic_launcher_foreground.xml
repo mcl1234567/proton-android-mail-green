@@ -43,7 +43,7 @@
                             android:startY="277.473"
                             android:type="linear">
                             <item
-                                android:color="#FFadd8e6"
+                                android:color="#FF90ee90"
                                 android:offset="0" />
                             <item
                                 android:color="@color/cornflower_blue"
@@ -62,7 +62,7 @@
                             android:startY="603.5"
                             android:type="linear">
                             <item
-                                android:color="#FFadd8e6"
+                                android:color="#FF90ee90"
                                 android:offset="0.271019" />
                             <item
                                 android:color="@color/cornflower_blue"
